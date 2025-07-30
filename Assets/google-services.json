@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300070388308",
+    "project_id": "ar-indoor-navigation-780f8",
+    "storage_bucket": "ar-indoor-navigation-780f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300070388308:android:aec6cf5cbdb4f729fea3c1",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.UniversalMobile3DTemplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOFYY_O4kvl1_I_yeAGtl8rKyd6uQKZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

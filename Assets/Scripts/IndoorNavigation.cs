@@ -54,6 +54,7 @@ using UnityEngine.XR.ARFoundation;
 using UnityEngine.AI;
 
 public class IndoorNavigation : MonoBehaviour
+
 {
     [SerializeField] private Transform player;
     [SerializeField] private ARTrackedImageManager trackedImageManager;

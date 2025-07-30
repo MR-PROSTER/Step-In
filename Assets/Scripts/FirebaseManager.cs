@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FirebaseInit : MonoBehaviour
 {
+
     void Start()
     {
         FirebaseApp.CheckAndFixDependenciesAsync().ContinueWithOnMainThread(task =>
